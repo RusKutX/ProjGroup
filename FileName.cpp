@@ -39,5 +39,9 @@ int main()
 	double d = 0;
 
 	input(k, V, t, Hg, Hs, D, L, d);
-	//
+
+	int main()
+	{
+		setlocale(LC_ALL, "");
+		double k, V, t, Hg, Hs, D, L, d, hl, Q;
 }
