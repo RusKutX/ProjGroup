@@ -39,5 +39,5 @@ int main()
 	double d = 0;
 
 	input(k, V, t, Hg, Hs, D, L, d);
-
+	//
 }
