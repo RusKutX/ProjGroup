@@ -43,5 +43,5 @@ int main()
 	int main()
 	{
 		setlocale(LC_ALL, "");
-		double k, V, t, Hg, Hs, D, L, d, hl, Q;
+		double k, V, t, Hg, Hs, D, L, d, hl, Q;1
 }
